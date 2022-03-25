@@ -31,7 +31,6 @@ while True:
                 'Digite a nota da terceira prova do aluno(a): ')
             dados['nota3'].append(insere_nota3)
             print('Aluno(a) adicionado(a) com seucesso!!')
-           
 
             sair = input('Deseja continuar adicionando s/n? ')
             if sair == 'n':
